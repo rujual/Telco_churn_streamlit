@@ -1,0 +1,2 @@
+cluster_number,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+0,Female,0,No,No,5.01315789473683,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,81.04868421052629,395.541447368421,1
