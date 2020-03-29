@@ -9,7 +9,7 @@ $ pip install streamlit
 
 Open terminal and Go into downloaded directory-
 
-Run - 
+*Run - 
 $ streamlit run telco_churn_with_clustering.py
 
 ##Enjoy
