@@ -49,14 +49,20 @@ The final goal is to find out the data columns to change for each Data Centroid,
 ### Steps to Run  
 
 Clone/Download-
-git clone https://github.com/rujual/Telco_churn_streamlit.git  
+```bash
+$ git clone https://github.com/rujual/Telco_churn_streamlit.git  
+```
 
 Install Streamlit Python library-
+```bash
 $ pip install streamlit  
+```
 
 Open terminal and Go into downloaded directory-  
-
 * Run -
+
+```bash
 $ streamlit run telco_churn_with_clustering.py  
+```
 
 ### Play around, get a hands-on feel of the one of the simpler ML models in action!    
